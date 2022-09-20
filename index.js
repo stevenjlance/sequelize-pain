@@ -1,4 +1,4 @@
-const {User, sequelze } = require('./User.js');
+const {User, sequelize } = require('./User.js');
 
 console.log("user", User)
 async function createUser() {
